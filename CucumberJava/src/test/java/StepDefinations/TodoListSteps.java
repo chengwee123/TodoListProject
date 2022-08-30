@@ -13,7 +13,7 @@ import org.openqa.selenium.interactions.Actions;
 
 import io.cucumber.java.en.*;
 
-public class AddNewItemSteps {
+public class TodoListSteps {
 			
 	
 	WebDriver driver = null;
